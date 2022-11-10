@@ -1,5 +1,5 @@
 New developer. 
-Special credits to everyone from Android community. Literally everyone. Without them I wouldn't have a rom. None of this is my work. I have been cherry picking whichever commits I like . I appreciate all the hard work.
+Special credits to everyone from Android community. Literally everyone. Without them I wouldn't have a rom. None of this is my work. I appreciate all the hard work.
 
 <!---
 Twinchin12/Twinchin12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
