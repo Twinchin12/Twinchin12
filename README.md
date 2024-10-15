@@ -1,5 +1,4 @@
-New developer. 
-Special credits to everyone from Android community. Literally everyone. Without them I wouldn't have had these repos. None of this is my work. I appreciate all the hard work.
+Learning
 
 <!---
 Twinchin12/Twinchin12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
